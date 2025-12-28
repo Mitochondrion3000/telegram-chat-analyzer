@@ -34,6 +34,9 @@
   <h3>Графики активности</h3>
   <img src="https://github.com/user-attachments/assets/e273d861-6a40-4212-a226-964bef9d8eb5" width="80%">
 </div>
+<img width="859" height="671" alt="изображение" src="https://github.com/user-attachments/assets/338a93eb-7892-4e12-90e1-f41c7105cf95" />
+
+<img width="1214" height="750" alt="изображение" src="https://github.com/user-attachments/assets/b07606f8-5880-490e-b4e0-bd3f14464098" />
 
 ---
 
