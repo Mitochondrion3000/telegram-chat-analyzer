@@ -26,7 +26,7 @@
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/07ef79d6-2a9b-45da-82c4-b7b5669f753f" width="100%"> | <img src="https://github.com/user-attachments/assets/83913d95-36df-4092-b1e3-3476e8237cb0" width="100%"> |
 
-| Статистика сообщений | Эмоциональная окраска / Другое |
+| Статистика сообщений | Кто чаще начинает диалог|
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/78b00c61-00d8-435f-a68f-b1be8bf13836" width="100%"> | <img src="https://github.com/user-attachments/assets/c0c0ec95-4ad4-4ccf-a9df-21898755b532" width="100%"> |
 
