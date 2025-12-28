@@ -4,8 +4,6 @@
 Анализатор Telegram переписок — извлекайте статистику, визуализируйте паттерны общения и узнавайте интересные факты о своих чатах!
 ✨ Что внутри
 
-    result.json — тестовый файл Telegram экспорта (16 сообщений со всеми типами контента)
+    json_instructions.pdf — пошаговая инструкция по экспорту переписок из Telegram
 
-    instructions.pdf — пошаговая инструкция по экспорту переписок из Telegram
-
-    Jupyter Notebook — код для анализа (Google Colab ready)
+    Our_History_2025.ipynb — код для анализа (Google Colab ready)
